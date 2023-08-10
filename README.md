@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denisekedwards and I'm a UX/UI content strategist. 
+- 👋 Hi, I’m @denisekedwards and I'm a Web and Digital Product Manager. 
 - 👀 In addition to content and design, I’m interested in front-end development. 
 - 🌱 I'm currently focusing on mastering JavaScript, but I've also dabbled a little bit in Python. 
 - 💞️ I’m looking to collaborate with others to improve websites, web apps, and digital platforms.  
