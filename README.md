@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @denisekedwards and I'm a Web and Digital Product Manager. 
-- 👀 In addition to design and accessibility, I’m interested in front-end development. 
-- 🌱 I'm currently focusing on mastering JavaScript, but I've also dabbled a little bit in Python. 
+- 👋 Hi, I’m @denisekedwards. I'm a Web and Digital Content Manager. 
+- 👀 I'm interested in UX design, accessibility, and AI. 
+- 🌱 I'm currently learning to use AI to improve efficiency in content workflows.  
 - 💞️ I’m looking to collaborate with others to improve websites, web apps, and digital platforms.  
 - 📫 You can reach me on LinkedIn at http://www.linkedin.com/in/denisekedwards
 <!---
